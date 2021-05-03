@@ -2,5 +2,5 @@
 
 return [
     'production' => true,
-    'baseUrl' => 'fabsoftware',
+    'baseUrl' => 'https://ic.itp.ifsp.edu.br/fabsoftware/',
 ];
