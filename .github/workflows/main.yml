@@ -23,17 +23,13 @@ jobs:
     - name: Build website
       run: npm run prod
 
-    - name: 📂 Sync files
-      uses: SamKirkland/FTP-Deploy-Action@4.0.0
+    - name: Copy repository contents via scp
+      uses: appleboy/scp-action@master
+      env:
+        HOST: ${{ secrets.HOST }}
+        USERNAME: ${{ secrets.USERNAME }}
+        PORT: ${{ secrets.PORT }}
+        KEY: ${{ secrets.SSHKEY }}
       with:
-        local-dir: ./build_production/
-        server-dir: fabsoftware/
-        server: ${{ secrets.HOST }}
-        username: ${{ secrets.USERNAME }}
-        password: ${{ secrets.PASSWORD }}
-        exclude: .git*
-          - data.sqlite
-          - .git*/**
-          -  **/.git*/**
-          - node_modules/**
-          - node_modules/**/*
+        source: "./build_production/*"
+        target: "/var/www/fabsoftware"
