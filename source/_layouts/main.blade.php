@@ -63,5 +63,63 @@
 
 </div>
 </div>
+
+<div id="rodapé">
+
+<div id="topicos">
+    <div id="titulo1"><p><strong>Dedicado aos membros</strong></p></div>
+
+<div id="nomes">
+<div id="n1">
+     <p id="n2">Pedro Gois</p>
+     <p id="n2">Vinicius Zevarex</p>
+     <p id="n2">Bruno Shanoski</p>
+     <p id="n2">Samuel Fachetti</p>
+</div>
+<div id="n1">
+     <p id="n2">João Morais</p>
+     <p id="n2">Rafael Damiam</p>
+     <p id="n2">Lucas Cavalherie</p>
+     <p id="n2">Neemias Borges</p>
+ </div>
+</div>
+</div>
+
+ <div id="topicos">
+    <div id="titulo2"><p><strong>Contatos</strong></p></div>
+
+<div id="icon">
+<div>
+  <a href="https://www.facebook.com/"><img src="Facebook-icon.png" alt="facebook"></a>
+</div>
+
+<div>
+  <a href="https://www.twitter.com/"><img src="Twitter-icon.png" alt="twiter"></a>
+ </div>
+
+<div>
+  <a href="https://www.github.com/"><img src="Github-icon.png" alt="github"></a>
+</div>
+
+<div>
+  <a href="https://dribbble.com/"><img src="Dribbble-icon.png" alt="?"></a>
+</div>
+
+</div>
+</div>
+
+<div id="topicos">
+  <div id="titulo3"><p><strong>Desenvolvido Por:</strong></p></div>
+  <div id="logo">
+<img src="logo-oficial2.png" alt="icone da fabrica">
+  </div>
+</div>
+
+</div>
+
+<div id="copy">
+<p>Copyright © 2020 Fábrica de softwares ITP - IfSP - Todos os direitos reservados</p>
+</div>
+
     </body>
 </html>

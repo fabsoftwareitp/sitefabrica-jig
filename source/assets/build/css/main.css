@@ -521,3 +521,76 @@ h4{
   border-radius: 1.875em;
   background-color: #fd624c;
 }
+
+#rodapé{
+  color: #f1fdfe;
+  background-color: #2e4857;
+  display: flex;
+  justify-content: space-around;
+}
+
+#topicos{
+  justify-content: space-around;
+  padding-top: 3px;
+  width: 350px;
+  gap:10em;
+}
+
+#titulo1{
+  font-family: 'Roboto','Sans serif';
+  font-size: 1.50em;
+  margin-left: 45px;
+}
+
+#titulo2{
+  font-family: 'Roboto','Sans serif';
+  font-size: 1.50em;
+  margin-left: 125px;
+}
+
+#titulo3{
+  font-family: 'Roboto','Sans serif';
+  font-size: 1.50em;
+  margin-left: 50px;
+}
+
+#nomes{
+  display: flex;
+  justify-content: center;
+  gap: 3.9em;
+}
+
+#n1{
+  text-align: start;
+  font-family: 'Roboto','Sans serif';
+}
+
+#n2{
+  margin: 7px;
+}
+
+#topicos2{
+  justify-content: space-around;
+  font-family: 'Roboto','Sans serif';
+  font-size: 1.50em;
+  padding-top: 3px;
+  width: 500px;
+}
+
+#icon{
+  display: flex;
+  justify-content: space-around;
+}
+
+#logo{
+  margin-left: 70px;
+}
+
+#copy{
+  color: #4c7079;
+  padding-top: 0.3em;
+  text-align: center;
+  background-color:#04303d;
+  height: 3em;
+}
+
