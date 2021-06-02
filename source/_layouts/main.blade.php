@@ -63,5 +63,35 @@
 
 </div>
 </div>
+<div id="estrutura-videos">
+<h1>Depoimentos</h1>
+<div id="caixas-videos">
+
+
+
+<div id="membro-video">
+    <iframe width="100%" height="247" src="https://www.youtube.com/embed/B1bys3rAuL8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <strong>Rafael Damiam</strong>
+    <iframe width="548" height="247" src="https://www.youtube.com/embed/sDcW1keRIDs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <strong>Vinicius Zevarex</strong>
+</div>
+
+<div id="membro-video">
+    <iframe width="548" height="247" src="https://www.youtube.com/embed/D054k8JNOm4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    
+    <strong>João Moraiz</strong>
+
+    <iframe width="548" height="247" src="https://www.youtube.com/embed/aw3LTiobEYs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <strong>Lucas Cavalherie</strong>
+</div>
+
+</div>
+<h1 id="titulo-equipe">Equipe Fábrica de Software</h1>
+
+<h1 id="titulo-noticias">Últimas notícias</h1>
+
+<a href="https://ic.itp.ifsp.edu.br/fabsoftware/noticias"><button id="botao-fim">Ver mais...</button></a>
+
+    </div>
     </body>
 </html>
