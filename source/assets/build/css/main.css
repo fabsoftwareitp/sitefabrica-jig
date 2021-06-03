@@ -583,3 +583,85 @@ strong{
   border-radius: 0.625em;
   padding: 0.625em 0.5em;
 }
+
+#rodapé{
+  padding-top: 0.425em;
+  padding-bottom: 0.925em;
+  color: #f1fdfe;
+  background-color: #2e4857;
+  display: flex;
+  justify-content: space-around;
+}
+
+#topicos{
+  justify-content: space-around;
+  padding-top: 0.1875em;
+  width: 25.735294117647058vw;
+  gap:10em;
+}
+
+#titulo1{
+  font-family: 'Roboto','Sans serif';
+  font-size: 1.2em;
+  text-align: center;
+}
+
+#titulo2{
+  margin-bottom: 1.65em;
+  font-family: 'Roboto','Sans serif';
+  font-size: 1.2em;
+  text-align: center;
+}
+
+#titulo3{
+  font-family: 'Roboto','Sans serif';
+  font-size: 1.2em;
+  text-align: center;
+}
+
+#caixa-nomes{
+  display: flex;
+  justify-content: center;
+  gap: 3.9em;
+}
+
+#coluna-nomes{
+  text-align: start;
+  font-family: 'Roboto','Sans serif';
+}
+
+#nome{
+  margin: 0.4375em;
+}
+
+#topicos2{
+  justify-content: space-around;
+  font-family: 'Roboto','Sans serif';
+  font-size: 1.50em;
+  padding-top: 0.1875em;
+  width: 36.76470588235294vw;
+}
+
+#icon{
+  display: flex;
+  justify-content: space-around;
+}
+
+#logo{
+  text-align: center;
+}
+
+#logo-rodape{
+  height: 6.25em;
+  width: 6.25em;
+}
+
+#copy{
+  font-size: 0.875em;
+  font-family: "Roboto","sans serif";
+  color: rgba(255, 255, 255, 0.6);
+  padding-top: 0.3em;
+  text-align: center;
+  background-color:#04303d;
+  height: 3.2em;
+}
