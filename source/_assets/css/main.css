@@ -165,14 +165,135 @@ body {
         width: 3em;
         border-radius: 1.875em;
         background-color: #fd624c;
+
+    }
+
+        #estrutura-videos{
+            margin-top: 0.625em;
+            display: flex;
+            flex-direction: column;
+            text-align: center;
+        }
+        #caixas-videos{             
+            margin:auto;             
+            width: 90%;             
+            display: flex;  
+            justify-content: space-around;                          
+        }         
+        h1{      
+         
+            margin: auto;       
+            font-size: 1.875em;             
+            font-family: 'Roboto', sans-serif;  
+            margin-bottom: 1.25em;       
+        }         
+        #membro-video{             
+            margin-top: 1.875em;                                       
+            padding-right: 25px;             
+            padding-left: 25px;             
+            display: flex;             
+            flex-direction: column;                      
+        }         
+        strong{             
+            font-size: 1.25em;             
+            margin-top: 0.625em;             
+            margin-bottom: 2em;         
+        }         
+        #titulo-equipe{             
+            margin-top: 3.2em;             
+            font-size: 1.875em;             
+            font-family: 'Roboto', sans-serif;         
+        }         
+        #titulo-noticias{             
+            margin-top: 3.5em;             
+            font-size: 1.875em;             
+            font-family: 'Roboto', sans-serif;         
+        }         
+        #botao-fim{             
+            cursor: pointer;             
+            margin-top: 2.5em;             
+            margin-bottom: 3.125em;             
+            outline: none;             
+            border: none;             
+            max-width: 100%;             
+            color: rgb(255, 255, 255);             
+            background-color: #fd624c;             
+            height: 3.125em;             
+            width: 15.625em;             
+            border-radius: 0.625em;             
+            padding: 0.625em 0.5em;   
+            
+    }
+
+    #rodapé{
+        color: #f1fdfe;
+        background-color: #2e4857;
+        display: flex;
+      justify-content: space-around;
+
     }
     
-
-    #estrutura-videos{
-        margin-top: 0.625em;
+    #topicos{  
+        justify-content: space-around;
+        padding-top: 3px;
+        width: 350px;
+        gap:10em;
+        
+    }
+    #titulo1{
+        font-family: 'Roboto','Sans serif';
+        font-size: 1.50em;
+        margin-left: 45px;
+    }
+    #titulo2{
+        font-family: 'Roboto','Sans serif';
+        font-size: 1.50em;
+        margin-left: 125px;
+    }
+    #titulo3{
+        font-family: 'Roboto','Sans serif';
+        font-size: 1.50em;
+        margin-left: 50px;
+    }
+    #nomes{
         display: flex;
-        flex-direction: column;
+        justify-content: center;
+        gap: 3.9em;
+    }
+    #n1{
+       text-align: start;
+       font-family: 'Roboto','Sans serif';
+       
+    }
+    #n2{
+        margin: 7px;
+
+    }
+   #topicos2{
+    justify-content: space-around;
+    font-family: 'Roboto','Sans serif';
+    font-size: 1.50em;
+    padding-top: 3px;
+    width: 500px;
+
+   }
+
+   #icon{
+      display: flex;
+      justify-content: space-around;
+
+   }
+    #logo{
+        margin-left: 70px;
+
+    }
+    #copy{
+        color: #4c7079;
+        padding-top: 0.3em;
         text-align: center;
+        background-color:#04303d;
+        height: 3em;
+
     }
     #caixas-videos{             
         margin:auto;             
