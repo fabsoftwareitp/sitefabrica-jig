@@ -368,14 +368,14 @@ body {
   justify-content: center;
 }
 
-#item-lista{
+.item-lista {
   padding: 0.625em;
   margin-left: 0.795em;
   margin-right: 0.795em;
-  margin-top: 0.5em;
+  margin-top: 0.6em;
 }
 
-a{
+a {
   font-family: 'Roboto', sans-serif;
   font-weight: 300;
   font-size: 1.01em;
@@ -383,87 +383,71 @@ a{
   text-decoration: none;
 }
 
-#estrutura-inicio{
+#estrutura-inicio {
   margin-top: 8.5625em;
   align-items: center;
-  background-color: none;
   display: flex;
   padding-bottom: 1.25em;
   padding-top: 1.25em;
 }
 
-#git-caixa{
+#estrutura-maior {
+  max-width: 960px;
+  min-width: 640px;
+  margin: auto;
+  display: flex;
+}
+
+#git-caixa {
   margin-left: 0.625em;
   margin-top: 2.1875em;
   background-color: none;
   width: 2.2em;
 }
 
-#imagem-git{
+#imagem-git {
   height: 5.64vh;
   width: 2.2vw;
 }
 
-#git-link{
+#git-link {
   background-color: none;
 }
 
-#info-inicio{
+#info-inicio {
   margin-top: 0.94em;
   display: flex;
   flex-direction: column;
-  margin-left: 14.375em;
+  margin-left: 3.3em;
 }
 
-#titulo-inicio{
+#titulo-inicio {
+  margin-top: 3.6rem;
   font-family: 'Roboto', sans-serif;
   font-weight: 700;
   font-size: 3.75em;
 }
 
-h2{
+h2 {
   margin-top: 0.3125em;
   font-size: 1.0625em;
   color: #545454;
   font-family: 'Libre Baskerville', serif;
 }
 
-#info-caixa{
-  margin-top: 0.645em;
-  font-size: 0.9375em;
-}
-
-#botao-caixa{
-  margin-top: 0.625em;
-  font-family: 'Roboto', 'sans serif';
-}
-
-#botao{
-  cursor: pointer;
-  padding: 0;
-  margin: 0;
-  background-color: #fd624c;
-  border: none;
-  width: 8.77vw;
-  height: 6.48vh;
-  color: #f4f9ff;
-  border-radius: 0.3125em;
-  font-size: 0.9295em;
-  font-weight: 300;
-}
-
-#imagem-fab{
+#imagem-fab {
   background-color: none;
   margin-left: 2.5em;
 }
 
-#logo-fab{
+#logo-fab {
+  max-width: 250px;
   width: 15.625em;
   height: 15.625em;
   margin-top: 2.0625em;
 }
 
-#linha-laranja{
+#linha-laranja {
   margin-top: 10em;
   font-family: 'Roboto', 'Sans serif';
   color: rgb(244, 249, 255);
@@ -473,38 +457,38 @@ h2{
   word-spacing: 75.625em;
 }
 
-#imagem-icone{
+#imagem-icone {
   margin-left: 1.875em;
   height: 1em;
   width: 1em;
 }
 
-#sobre-caixa{
+#sobre-caixa {
   align-items: center;
   display: flex;
   flex-direction: column;
-  font-family: 'Roboto','Sans serif';
+  font-family: 'Roboto', 'Sans serif';
 }
 
-h3{
+h3 {
   margin-top: 2.5em;
   margin-bottom: 2.5em;
   font-size: 1.875em;
 }
 
-#sobre-texto{
+#sobre-texto {
   font-weight: 500;
   text-align: center;
   font-size: 1.25em;
 }
 
-#oportunidades-caixa{
+#oportunidades-caixa {
   margin: 0.1em auto;
   display: flex;
   gap: 1.875em
 }
 
-#oportunidade{
+.oportunidade {
   font-size: 1.25em;
   margin: 2.5em;
   align-items: center;
@@ -512,39 +496,40 @@ h3{
   flex-direction: column;
 }
 
-h4{
+h4 {
   text-align: center;
 }
 
-#bola{
+.bola {
   height: 3em;
   width: 3em;
   border-radius: 1.875em;
   background-color: #fd624c;
 }
 
-#estrutura-videos{
+#estrutura-videos {
+  text-align: center;
   margin-top: 0.625em;
   display: flex;
   flex-direction: column;
-  text-align: center;
 }
 
-#caixas-videos{
-  margin:auto;
+#caixa-videos {
+  max-width: 1320px;
+  margin: auto;
   width: 90%;
   display: flex;
   justify-content: space-around;
 }
 
-h1{
+h1 {
   margin: auto;
   font-size: 1.875em;
   font-family: 'Roboto', sans-serif;
   margin-bottom: 1.25em;
 }
 
-#membro-video{
+.membro-video {
   margin-top: 1.875em;
   padding-right: 25px;
   padding-left: 25px;
@@ -552,25 +537,25 @@ h1{
   flex-direction: column;
 }
 
-strong{
+strong {
   font-size: 1.25em;
   margin-top: 0.625em;
   margin-bottom: 2em;
 }
 
-#titulo-equipe{
+#titulo-equipe {
   margin-top: 3.2em;
   font-size: 1.875em;
   font-family: 'Roboto', sans-serif;
 }
 
-#titulo-noticias{
+#titulo-noticias {
   margin-top: 3.5em;
   font-size: 1.875em;
   font-family: 'Roboto', sans-serif;
 }
 
-#botao-fim{
+#botao-fim {
   cursor: pointer;
   margin-top: 2.5em;
   margin-bottom: 3.125em;
@@ -585,7 +570,8 @@ strong{
   padding: 0.625em 0.5em;
 }
 
-#rodapé{
+#rodapé {
+  max-width: 100%;
   padding-top: 0.425em;
   padding-bottom: 0.925em;
   color: #f1fdfe;
@@ -594,76 +580,67 @@ strong{
   justify-content: space-around;
 }
 
-#topicos{
+.topicos {
   justify-content: space-around;
   padding-top: 0.1875em;
   width: 25.735294117647058vw;
-  gap:10em;
+  gap: 10em;
 }
 
-#titulo1{
-  font-family: 'Roboto','Sans serif';
-  font-size: 1.2em;
-  text-align: center;
-}
-
-#titulo2{
+#titulo-contatos {
+  min-width: 400px;
   margin-bottom: 1.65em;
-  font-family: 'Roboto','Sans serif';
+  font-family: 'Roboto', 'Sans serif';
   font-size: 1.2em;
   text-align: center;
 }
 
-#titulo3{
-  font-family: 'Roboto','Sans serif';
+.titulo-topicos {
+  min-width: 340px;
+  font-family: 'Roboto', 'Sans serif';
   font-size: 1.2em;
   text-align: center;
 }
 
-#caixa-nomes{
+#caixa-nomes {
+  max-height: 540px;
+  min-width: 340px;
   display: flex;
   justify-content: center;
   gap: 3.9em;
 }
 
-#coluna-nomes{
+.coluna-nomes {
   text-align: start;
-  font-family: 'Roboto','Sans serif';
+  font-family: 'Roboto', 'Sans serif';
 }
 
-#nome{
+.nome {
   margin: 0.4375em;
 }
 
-#topicos2{
-  justify-content: space-around;
-  font-family: 'Roboto','Sans serif';
-  font-size: 1.50em;
-  padding-top: 0.1875em;
-  width: 36.76470588235294vw;
-}
-
-#icon{
+#icon {
+  min-width: 400px;
   display: flex;
   justify-content: space-around;
 }
 
-#logo{
+#logo {
   text-align: center;
 }
 
-#logo-rodape{
+#logo-rodape {
+  min-width: 100px;
   height: 6.25em;
   width: 6.25em;
 }
 
-#copy{
+#copy {
   font-size: 0.875em;
-  font-family: "Roboto","sans serif";
+  font-family: "Roboto", "sans serif";
   color: rgba(255, 255, 255, 0.6);
   padding-top: 0.3em;
   text-align: center;
-  background-color:#04303d;
+  background-color: #04303d;
   height: 3.2em;
 }
-
