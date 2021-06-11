@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html lang="{{ $page->language ?? 'en' }}">
-
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -182,5 +181,4 @@
         <p>Copyright © 2020 Fábrica de softwares ITP - IFSP - Todos os direitos reservados</p>
     </div>
 </body>
-
 </html>
