@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@700&display=swap');
+@media (max-width:965px) {
+    body{
+        font-size: 55%;
+    }
+    .bloco aside article{
+        width: 350px;
+    }
+    #depoimentos div iframe{
+        min-width: 500px;
+    }
+}
+@media (max-width:900px) {
+    body{
+        font-size: 50%;
+    }
+
+}
+@media (max-width:768px) {
+    body{
+        font-size: 45%;
+    }
+    .bloco aside article{
+        width: 300px;
+    }
+    .bloco #logo-bloco{
+        margin-top: 0px;
+    }
+    .container article{
+        width: 100%;
+        flex-direction: column;
+    }
+    .bloco{
+        flex-direction: column;
+    }
+    #depoimentos div iframe{
+        min-width: 400px;
+    }
+    
+}
+@media (max-width:550px) {
+    body{
+        font-size: 40%;
+    }
+    .bloco article{
+        font-size: 3rem;
+    }
+    #depoimentos div iframe{
+        min-width: 350px;
+    }
+    footer div{
+        flex-direction: column;
+    }
+    
+}
+@media (max-width:460px) {
+    body{
+        font-size: 35%;
+    }
+    #depoimentos div iframe{
+        min-width: 300px;
+    }
+    
+}
