@@ -51,9 +51,6 @@
     #depoimentos div iframe{
         min-width: 350px;
     }
-    footer div{
-        flex-direction: column;
-    }
     
 }
 @media (max-width:460px) {
