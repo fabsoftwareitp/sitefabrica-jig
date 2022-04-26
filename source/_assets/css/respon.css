@@ -36,7 +36,7 @@
     #depoimentos div iframe{
         min-width: 400px;
     }
-    
+
 }
 @media (max-width:550px) {
     body{
@@ -48,7 +48,14 @@
     #depoimentos div iframe{
         min-width: 350px;
     }
+
     
+    
+}
+@media (max-width:500px) {
+    #members{
+        width: 90% !important;
+    }
 }
 @media (max-width:460px) {
     body{
