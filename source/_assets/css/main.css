@@ -36,10 +36,12 @@ ul li {
     margin: 20px 1.8vw;
     font-weight: 300;
     font-size: 1rem;
+    padding: 0.5rem;
+    cursor: pointer;
+    transition: all 0.2s;
 }
 nav ul li:hover{
     color: #fff;
-    padding: 1rem;
     background-color: #333;
 }
 .bloco {
@@ -235,9 +237,12 @@ footer article {
 #members img{
     width: 30vw;
     min-width: 300px;
+    border-radius: 50%;
 
 
 }#members p{
     text-align: justify;
+    line-height: 2.5rem;
+    color: #232323;
 
 }
