@@ -28,7 +28,7 @@
         <div class="bloco">
 
             <aside>
-                <article>Fábrica de Software</article> <a>IFSP Itapetininga</a>
+                <article>Fábrica de Software</article> <a>IFSP Itapetininga!!</a>
             </aside>
 
             <img id="logo-bloco" src="assets/images/logo-oficial.png">
