@@ -3,7 +3,7 @@ extends: _layouts.members
 section: content
 
 status: ativo
-name: "Lucas Cavalherie"
+name: "Gabriel Machado"
 ---
 
 # Gabriel Machado
