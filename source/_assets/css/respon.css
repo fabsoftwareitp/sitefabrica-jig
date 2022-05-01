@@ -56,6 +56,13 @@
     #members{
         width: 90% !important;
     }
+    .bloco aside{
+        margin: 0rem !important;
+    }
+    ul li{
+        margin: 0.4rem 0rem !important;
+        padding: 0.3rem  !important;
+    }
 }
 @media (max-width:460px) {
     body{
