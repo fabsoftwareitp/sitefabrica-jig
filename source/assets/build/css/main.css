@@ -627,3 +627,19 @@ footer article {
   min-width: 30px;
   margin-bottom: 20px;
 }
+
+/* Parte dos projetos.md */
+
+#projetos{
+  display: flex;
+  flex-direction: column;
+  width: 60%;
+  margin: auto;
+  align-items: center;
+  font-size: 1.5rem;
+}
+
+#projetos p{
+  text-align: justify;
+  color: #232323;
+}
