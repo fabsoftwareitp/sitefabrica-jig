@@ -233,3 +233,14 @@ footer article {
     text-align: justify;
     color: #232323;
 }
+
+#projetos a{
+    text-decoration: none;
+    color: #fd624c;
+    opacity: 70%;
+    transition: 0.3s;
+}
+
+#projetos a:hover{
+    opacity: 100% ;
+}
