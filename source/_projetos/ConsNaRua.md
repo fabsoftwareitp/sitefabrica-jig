@@ -5,7 +5,7 @@ section: content
 status: ativo
 name: "App do Consultório na Rua"
 ---
-# App do Consultório na Rua
+# App do Consultório na Ru
 
 ![nome da imagem](/assets/images/ajudante_papainoel.webp)
 
