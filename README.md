@@ -11,3 +11,5 @@
 ## Para alterar o layout
 
 Os arquivos de layout ficam na pasta `_assets`. Basta criar novos arquivos css se necessário e importar no arquivo css principal que é o `main.css` usando a sintaxe `@import 'seuarquivo.css';`
+
+
