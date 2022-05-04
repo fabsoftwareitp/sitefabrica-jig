@@ -1,5 +1,5 @@
 ---
-extends: _layouts.members
+extends: _layouts.projetos
 section: content
 
 status: ativo
@@ -10,6 +10,8 @@ link: http://ic.itp.ifsp.edu.br/espweb/
 ---
 
 # Site Especialização em Desenvolvimento Web
+
+![FS-cinza](/assets/images/fs_cinza.png)
 
 O site EspWeb foi elaborado para a divulgação do curso de Especialização em Desenvolvimento Web ofertado pelo IFSP.
 
