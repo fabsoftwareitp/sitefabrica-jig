@@ -650,24 +650,46 @@ footer article {
 }
 
 /* parte de membros.md */
-
 #members{
-  width: 60%;
-  margin: auto;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  font-size: 1.5rem;
+    width: 60%;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-size: 1.5rem;
 }
-
 #members img{
-  width: 30vw;
-  min-width: 300px;
-  border-radius: 50%;
+    width: 30vw;
+    min-width: 300px;
+    border-radius: 50%;
+
+}
+#members p{
+    text-align: justify;
+    line-height: 2.5rem;
+    color: #232323;
+
+/* Parte dos projetos.md */
+#projetos{
+    display: flex;
+    flex-direction: column;
+    width: 60%;
+    margin: auto;
+    align-items: center;
+    font-size: 1.5rem;
 }
 
-#members p{
-  text-align: justify;
-  line-height: 2.5rem;
-  color: #232323;
+#projetos p{
+    text-align: justify;
+    color: #232323;
 }
+
+#projetos a{
+    text-decoration: none;
+    color: #fd624c;
+    opacity: 70%;
+    transition: 0.3s;
+}
+
+#projetos a:hover{
+    opacity: 100% ;
