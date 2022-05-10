@@ -8,7 +8,7 @@ link: "https://showdefisica.itp.ifsp.edu.br/"
 ---
 # Show de Física
 
-![Show de Física](/assets/images/show_fisica.jpg)
+![Show de Física](./assets/images/show_fisica.jpg)
 
 [https://showdefisica.itp.ifsp.edu.br/](https://showdefisica.itp.ifsp.edu.br/)
 
