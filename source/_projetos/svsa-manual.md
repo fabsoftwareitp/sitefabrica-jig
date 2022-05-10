@@ -8,7 +8,7 @@ link: https://svsa.itp.ifsp.edu.br/
 ---
 # Manual do Usuário do SVSA
 
-![Logo SVSA](assets/images/logo_svsa.png)
+![Logo SVSA](./assets/images/logo_svsa.png)
 
 [https://svsa.itp.ifsp.edu.br/](https://svsa.itp.ifsp.edu.br/)
 
