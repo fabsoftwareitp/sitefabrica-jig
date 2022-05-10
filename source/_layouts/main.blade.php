@@ -2,6 +2,8 @@
 <html lang="{{ $page->language ?? 'en' }}">
 
 <head>
+    <base href="https://ic.itp.ifsp.edu.br/fabsoftware">
+
     <link rel="icon" href="assets/images/logo-oficial.png">
     <meta name="description" content="{{ $page->description }}">
     <meta charset="UTF-8">
