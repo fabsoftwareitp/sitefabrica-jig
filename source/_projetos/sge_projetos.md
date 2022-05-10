@@ -8,7 +8,7 @@ link: https://ic.itp.ifsp.edu.br/sgeIFSP/
 ---
 # SGE - Sistema de Gerenciamento de Eventos
 
-![SGE](/assets/images/logo_sge_dark.png)
+![SGE](./assets/images/logo_sge_dark.png)
 
 [https://ic.itp.ifsp.edu.br/sgeIFSP/](https://ic.itp.ifsp.edu.br/sgeIFSP/)
 

@@ -2,6 +2,7 @@
 <html lang="{{ $page->language ?? 'en' }}">
 
 <head>
+    <base href="{{ $page->baseUrl }}">
     <link rel="icon" href="assets/images/logo-oficial.png">
     <meta name="description" content="{{ $page->description }}">
     <meta charset="UTF-8">
@@ -16,10 +17,6 @@
 <body>
 
     @include('_partials.header')
-    
-      <aside>
-          <article>Fábrica de Software</article> <a>IFSP Itapetininga!!</a>
-      </aside>
       
     @yield('body')
 

@@ -11,7 +11,7 @@ link: http://ic.itp.ifsp.edu.br/espweb/
 
 # Site Especialização em Desenvolvimento Web
 
-![FS-cinza](/assets/images/fs_cinza.png)
+![FS-cinza](./assets/images/fs_cinza.png)
 
 [http://ic.itp.ifsp.edu.br/espweb/](http://ic.itp.ifsp.edu.br/espweb/)
 
