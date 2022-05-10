@@ -1,7 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@700&display=swap');
+
 @media (max-width:965px) {
     body{
         font-size: 55%;
@@ -39,7 +36,7 @@
     #depoimentos div iframe{
         min-width: 400px;
     }
-    
+
 }
 @media (max-width:550px) {
     body{
@@ -51,7 +48,21 @@
     #depoimentos div iframe{
         min-width: 350px;
     }
+
     
+    
+}
+@media (max-width:500px) {
+    #members{
+        width: 90% !important;
+    }
+    .bloco aside{
+        margin: 0rem !important;
+    }
+    ul li{
+        margin: 0.4rem 0rem !important;
+        padding: 0.3rem  !important;
+    }
 }
 @media (max-width:460px) {
     body{
