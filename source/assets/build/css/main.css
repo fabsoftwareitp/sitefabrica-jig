@@ -414,6 +414,21 @@ template {
   }
 }
 
+@media (max-width:500px) {
+  #members{
+    width: 90% !important;
+  }
+
+  .bloco aside{
+    margin: 0rem !important;
+  }
+
+  ul li{
+    margin: 0.4rem 0rem !important;
+    padding: 0.3rem  !important;
+  }
+}
+
 @media (max-width:460px) {
   body{
     font-size: 35%;
@@ -450,9 +465,17 @@ ul {
 }
 
 ul li {
-  margin: 20px 1.8vw;
+  margin: 0.5rem;
   font-weight: 300;
   font-size: 1rem;
+  padding: 0.5rem;
+  cursor: pointer;
+  transition: all 0.2s;
+}
+
+nav ul li:hover{
+  color: #fff;
+  background-color: #333;
 }
 
 .bloco {
@@ -500,8 +523,6 @@ ul li {
 }
 
 .container h1 {
-  margin-top: 5%;
-  margin-bottom: 5%;
   font-size: 2rem;
 }
 
@@ -628,29 +649,47 @@ footer article {
   margin-bottom: 20px;
 }
 
-/* Parte dos projetos.md */
+/* parte de membros.md */
+#members{
+    width: 60%;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-size: 1.5rem;
+}
+#members img{
+    width: 30vw;
+    min-width: 300px;
+    border-radius: 50%;
 
+}
+#members p{
+    text-align: justify;
+    line-height: 2.5rem;
+    color: #232323;
+
+/* Parte dos projetos.md */
 #projetos{
-  display: flex;
-  flex-direction: column;
-  width: 60%;
-  margin: auto;
-  align-items: center;
-  font-size: 1.5rem;
+    display: flex;
+    flex-direction: column;
+    width: 60%;
+    margin: auto;
+    align-items: center;
+    font-size: 1.5rem;
 }
 
 #projetos p{
-  text-align: justify;
-  color: #232323;
+    text-align: justify;
+    color: #232323;
 }
 
 #projetos a{
-  text-decoration: none;
-  color: #fd624c;
-  opacity: 70%;
-  transition: 0.3s;
+    text-decoration: none;
+    color: #fd624c;
+    opacity: 70%;
+    transition: 0.3s;
 }
 
 #projetos a:hover{
-  opacity: 100% ;
-}
+    opacity: 100% ;
