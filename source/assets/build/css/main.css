@@ -419,6 +419,15 @@ template {
   #members{
     width: 90% !important;
   }
+
+  .bloco aside{
+    margin: 0rem !important;
+  }
+
+  ul li{
+    margin: 0.4rem 0rem !important;
+    padding: 0.3rem  !important;
+  }
 }
 
 @media (max-width:460px) {
@@ -478,7 +487,7 @@ ul {
 }
 
 ul li {
-  margin: 20px 1.8vw;
+  margin: 0.5rem;
   font-weight: 300;
   font-size: 1rem;
   padding: 0.5rem;

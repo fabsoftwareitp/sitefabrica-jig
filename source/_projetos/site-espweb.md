@@ -1,5 +1,5 @@
 ---
-extends: _layouts.members
+extends: _layouts.projetos
 section: content
 
 status: ativo
