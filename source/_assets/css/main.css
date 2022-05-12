@@ -12,7 +12,8 @@ body, html {
   
 .bg {
 /* The image used */
-background-image: url("/assets/images/bg.jpg");
+/* TODO: verificar como trabalhar com URL relativa aqui */
+background-image: url("https://ic.itp.ifsp.edu.br/fabsoftware/assets/images/bg.jpg"); 
 
 /* Full height */
 height: 100%;
