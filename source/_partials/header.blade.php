@@ -1,4 +1,4 @@
-<div class="container">
+<div class="container menu">
     <nav>
         <ul>
             <li>Notícias</li>
