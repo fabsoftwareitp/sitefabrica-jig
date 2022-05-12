@@ -4,7 +4,6 @@
 
 <div class="container">
         
-          
         <div class="bloco">
 
             <aside>
@@ -88,10 +87,7 @@
         </div>
 
 
-<div class="p-8">
-    <h1 class="text-3xl font-bold">Hello world!</h1>
-</div>
-
+<h1>Posts</h1>
 <ul>
 @foreach ($posts as $post)
     <li>
@@ -100,16 +96,9 @@
 @endforeach
 </ul>
 
-<h2>Membros</h2>
-<ul>
-    @foreach ($membros as $membro)
-        <li>
-            <a href="{{ $membro->getURl() }}">{{ $membro->name }}</a>
-        </li>
-    @endforeach
-</ul>
+@include('_partials.membros')
 
-<h2>Projetos</h2>
+<h1>Projetos</h1>
 <ul>
     @foreach ($projetos as $projeto)
         <li>
