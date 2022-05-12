@@ -5,6 +5,11 @@
 /.idea/
 /.vscode/
 npm-debug.log
+/build_*/
+/cache/
+/node_modules/
+/source/assets/build/
+.env
 
 # Optional ignores
 # /build_staging/
