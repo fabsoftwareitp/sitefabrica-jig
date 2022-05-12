@@ -4,8 +4,7 @@
 
 <div class="container">
         
-        <div class="bloco">
-
+        <div class="bloco bg">
             <aside>
                 <article>Fábrica de Software</article> <a>IFSP Itapetininga</a>
             </aside>
