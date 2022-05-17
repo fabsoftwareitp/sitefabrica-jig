@@ -4,6 +4,7 @@ section: content
 
 status: ativo
 name: "Gabriel Machado"
+team: dev22
 ---
 
 # Gabriel Machado

@@ -8,6 +8,7 @@ return [
     'collections' => [
         'posts',
         'membros',
-        'projetos'
+        'projetos',
+        'docs'
     ],
 ];

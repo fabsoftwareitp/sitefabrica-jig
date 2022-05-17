@@ -4,6 +4,7 @@ section: content
 
 status: ativo
 name: "Vitor Gabriel de Aquino"
+team: dev22
 ---
 
 # Vitor Gabriel de Aquino

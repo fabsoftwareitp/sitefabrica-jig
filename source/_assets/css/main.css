@@ -12,7 +12,8 @@ body, html {
   
 .bg {
 /* The image used */
-background-image: url("/assets/images/bg.jpg");
+/* TODO: verificar como trabalhar com URL relativa aqui */
+background-image: url("https://ic.itp.ifsp.edu.br/fabsoftware/assets/images/bg.jpg"); 
 
 /* Full height */
 height: 100%;
@@ -49,14 +50,14 @@ body {
 
 /* PARTE INICIAL: HEADER, TEXTO INICIAL */
 
- ul {
+nav ul {
     margin: auto;
     padding: 0;
     display: flex;
     list-style: none;
 }
 
-ul li {
+nav ul li {
     margin: 0.5rem;
     font-weight: 300;
     font-size: 1rem;
@@ -274,8 +275,6 @@ footer article {
 
 /* Parte dos projetos.md */
 #projetos{
-    display: flex;
-    flex-direction: column;
     width: 60%;
     margin: auto;
     align-items: center;
