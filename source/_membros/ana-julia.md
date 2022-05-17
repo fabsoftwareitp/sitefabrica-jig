@@ -4,6 +4,7 @@ section: content
 
 status: ativo
 name: "Ana Julia Trindade"
+team: dev22
 ---
 
 # Ana Julia Trindade

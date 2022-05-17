@@ -95,7 +95,15 @@
 @endforeach
 </ul>
 
-@include('_partials.membros')
+
+<h1>Membros</h1>
+    @foreach ($membros as $membro)
+
+    @if($membro->status == 'ativo')
+        <a href="{{ $membro->getURl() }}">{{ $membro->name }}</a>
+    @endif 
+    
+    @endforeach
 
 <h1>Projetos</h1>
 <ul>
@@ -105,5 +113,6 @@
         </li>
     @endforeach
 </ul>
+
 
 @endsection
