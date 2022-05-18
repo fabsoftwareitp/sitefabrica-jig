@@ -95,15 +95,25 @@
 @endforeach
 </ul>
 
-@include('_partials.membros')
+<h1>Membros</h1>
+
+<div class="links-home">
+    @foreach ($membros as $membro)
+        @if ($membro->status == "ativo")
+            <a class="membros-links" href="{{ $membro->getURl() }}">{{ $membro->name }}</a>
+        @endif
+    @endforeach
+</div>
+
+
 
 <h1>Projetos</h1>
-<ul>
+
+<div class="links-home">
     @foreach ($projetos as $projeto)
-        <li>
-            <a href="{{ $projeto->getURl() }}">{{ $projeto->name }}</a>
-        </li>
+            <a class="projetos-links" href="{{ $projeto->getURl() }}">{{ $projeto->name }}</a>
     @endforeach
-</ul>
+</div>
+    
 
 @endsection

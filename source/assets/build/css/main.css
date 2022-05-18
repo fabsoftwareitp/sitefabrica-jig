@@ -627,6 +627,55 @@ button {
   background-color: #fd624c;
 }
 
+/* PARTE DO MEMBROS E PROJETOS */
+
+.links-home {
+  display: flex;
+  flex-wrap: wrap;
+  max-width: 1200px;
+  margin: auto;
+}
+
+.membros-links {
+  box-sizing: border-box;
+  text-align: center;
+  padding: 70px 50px;
+  width: 270px;
+  height: 160px;
+  border: 1px solid black;
+  margin: 10px;
+  text-decoration: none;
+  color: #141414;
+  font-size: 1.8em;
+  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.705);
+  transition: 0.4s;
+}
+
+.membros-links:hover {
+  color: #fd624c;
+  font-size: 2em;
+}
+
+.projetos-links {
+  box-sizing: border-box;
+  text-align: center;
+  padding: 70px 50px;
+  width: 310px;
+  height: 200px;
+  border: 1px solid black;
+  margin: 10px;
+  text-decoration: none;
+  color: #141414;
+  font-size: 1.8em;
+  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.705);
+  transition: 0.4s;
+}
+
+.projetos-links:hover {
+  color: #fd624c;
+  font-size: 2em;
+}
+
 /* PARTE DO FOOTER */
 
 footer {
@@ -672,6 +721,36 @@ footer article {
   width: 2.7vw;
   min-width: 30px;
   margin-bottom: 20px;
+}
+
+/* HEADER MEMBROS E PROJETOS */
+
+#header {
+  height: 100px;
+  background-color: rgb(46, 72, 87);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+#header img {
+  width: 50px;
+  height: 50px;
+}
+
+#link-home {
+  align-items: center;
+  display: flex;
+  margin: 5%;
+}
+
+#link-home a {
+  font-size: 2.5em;
+  text-decoration: none;
+  color: #232323;
+}
+
+#header nav {
 }
 
 /* parte de membros.md */
@@ -723,3 +802,4 @@ footer article {
 #projetos a:hover{
   opacity: 100% ;
 }
+
