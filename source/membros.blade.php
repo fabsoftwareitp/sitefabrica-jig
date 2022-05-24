@@ -10,9 +10,9 @@
         </div>
 
         <nav>
-            <a href="#">Blog</a>
-            <a href="#">Membros</a>
-            <a href="#">Projetos</a>
+            <a class="link-header" href="#">Blog</a>
+            <a class="link-header" href="#">Membros</a>
+            <a class="link-header" href="#">Projetos</a>
         </nav>
     </div>
     
@@ -20,7 +20,7 @@
 </header>
 <div class="links-home">
     @foreach ($membros as $membro)
-        <a class="membros-links" href="{{ $membro->getURl() }}">{{ $membro->name }}</a>
+        <a class="membros-links" href="{{ $membro->getURl() }}"><div id="link-membro">{{ $membro->name }}</div></a>
     @endforeach
 </div>
 @endsection

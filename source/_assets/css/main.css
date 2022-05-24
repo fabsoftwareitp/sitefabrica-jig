@@ -208,24 +208,28 @@ button {
 .links-home {
     display: flex;
     flex-wrap: wrap;
-    max-width: 1200px;
+    max-width: 1150px;
     margin: auto;
+    justify-content: center;
 }
 
+
 .membros-links {
-    box-sizing: border-box;
-    text-align: center;
-    padding: 70px 50px;
-    width: 270px;
-    height: 160px;
+    padding: 20px;
+    display: flex;
+    width: 300px;
+    height: 150px;
     border: 1px solid black;
     margin: 10px;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.705);
     text-decoration: none;
     color: #141414;
     font-size: 1.8em;
-    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.705);
     transition: 0.4s;
+    align-items: center;
+    justify-content: center;
 }
+
 
 .membros-links:hover {
     color: #fd624c;
@@ -234,23 +238,24 @@ button {
 
 
 .projetos-links {
-    box-sizing: border-box;
-    text-align: center;
-    padding: 70px 50px;
-    width: 310px;
-    height: 200px;
+    padding: 20px;
+    display: flex;
+    width: 390px;
+    height: 150px;
     border: 1px solid black;
     margin: 10px;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.705);
     text-decoration: none;
     color: #141414;
-    font-size: 1.8em;
-    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.705);
+    font-size: 1.7em;
     transition: 0.4s;
+    align-items: center;
+    justify-content: center;
 }
 
 .projetos-links:hover {
     color: #fd624c;
-    font-size: 2em;
+    font-size: 1.9em;
 }
 
 
@@ -310,6 +315,7 @@ footer article {
     display: flex;
     align-items: center;
     justify-content: space-between;
+    margin-bottom: 20px;
 }
 
 #header img {
@@ -324,13 +330,31 @@ footer article {
 }
 
 #link-home a {
+    margin-left: 15px;
     font-size: 2.5em;
     text-decoration: none;
-    color: #232323;
+    color: #e4e4e4;
 }
 
 #header nav {
-    
+    margin-right: 10%;
+}
+
+.link-header {
+    width: 200px;
+    height: 50px;
+    text-decoration: none;
+    color: #e4e4e4;
+    transition: 0.4s;
+    font-size: 2.3em;
+    margin: 20px;
+    padding: 5px 10px;
+    font-weight: 500;
+}
+
+.link-header:hover {
+    color: #fd624c;
+    transition: 0.4s;
 }
 
 /* parte de membros.md */

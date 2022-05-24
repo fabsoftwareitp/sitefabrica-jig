@@ -100,7 +100,7 @@
 <div class="links-home">
     @foreach ($membros as $membro)
         @if ($membro->status == "ativo")
-            <a class="membros-links" href="{{ $membro->getURl() }}">{{ $membro->name }}</a>
+            <a class="membros-links" href="{{ $membro->getURl() }}"><div id="link-membro">{{ $membro->name }}</div></a>
         @endif
     @endforeach
 </div>
@@ -111,7 +111,7 @@
 
 <div class="links-home">
     @foreach ($projetos as $projeto)
-            <a class="projetos-links" href="{{ $projeto->getURl() }}">{{ $projeto->name }}</a>
+            <a class="projetos-links" href="{{ $projeto->getURl() }}"><div id="link-membro">{{ $projeto->name }}</div></a>
     @endforeach
 </div>
     
