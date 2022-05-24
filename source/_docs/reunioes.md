@@ -4,9 +4,27 @@ section: content
 
 name: "Reuniões"
 ---
-# Reuniões
+# Reuniões 📓
+
+## Abril
+
+### Semana 23
 
 ## Maio
+
+### Semana 22 (31/05)
+- Elaborar a página sobre
+- Criação de artigos (mensal?)
+
+### Semana 21 (23/05)
+
+Ausências: Vitor
+
+Apresentação do Gabriel sobre o Laravel. Ele apresentou uma introdução ao framework mostrando sua história, a estrutura de arquivos, algumas empresas que utilizam entre outros pontos. 
+
+Foi discutida algumas ideias para o IF Casa Aberta, as ideias foram documentadas na própria [issue](https://github.com/fabsoftwareitp/sitefabrica-jig/issues/38). Para **próxima semana** deverá ser discutido novamente as ideias e separado o que é necessário em cada e dividir para que os tópicos sejam estudados.
+
+Por fim, foi feita a reunião de planning para a semana e foram divididos as tarefas para cada um dos membros da equipe que pode ser acompanhado [aqui](https://github.com/orgs/fabsoftwareitp/projects/2/views/16?filterQuery=sprint%3A%22Sprint+6%22).
 
 ### Semana 20 (16/05)
 
@@ -22,7 +40,3 @@ Sobre os relatórios, foi comunicado aos demais sobre a necessidade de elaboraç
 As avaliação serão realizadas a cada trimestre e servem para verificar a evolução dos membros do projeto. A avaliação irá considerar aspectos de evolução pessoal e evolução profissional dos membros durante o tempo com base nas entregas e a carga horária de cada um. Caso algum membro não esteja colaborando este será desligado do projeto.
 
 Por fim ficou definido que a cada semana irá acontecer a reunião de planning da sprint onde a atribuição de tarefas deverá ser feita de maneira coletiva. 
-
-## Semana 21 (23/05)
-- Criação de artigos (mensal?)
-- Elaborar a página sobre
