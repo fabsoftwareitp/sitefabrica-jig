@@ -95,24 +95,26 @@
 @endforeach
 </ul>
 
-
 <h1>Membros</h1>
-    @foreach ($membros as $membro)
 
-    @if($membro->status == 'ativo')
-        <a href="{{ $membro->getURl() }}">{{ $membro->name }}</a>
-    @endif 
-    
+<div class="links-home">
+    @foreach ($membros as $membro)
+        @if ($membro->status == "ativo")
+            <a class="membros-links" href="{{ $membro->getURl() }}"><div id="link-membro">{{ $membro->name }}</div></a>
+        @endif
     @endforeach
+</div>
+
+
 
 <h1>Projetos</h1>
-<ul>
+
+<div class="links-home">
     @foreach ($projetos as $projeto)
-        <li>
-            <a href="{{ $projeto->getURl() }}">{{ $projeto->name }}</a>
-        </li>
+            <a class="projetos-links" href="{{ $projeto->getURl() }}"><div id="link-membro">{{ $projeto->name }}</div></a>
     @endforeach
-</ul>
+</div>
+    
 
 
 @endsection

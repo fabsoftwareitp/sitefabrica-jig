@@ -204,6 +204,62 @@ button {
 
 }
 
+/* PARTE DO MEMBROS E PROJETOS */
+
+.links-home {
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 1150px;
+    margin: auto;
+    justify-content: center;
+}
+
+
+.membros-links {
+    padding: 20px;
+    display: flex;
+    width: 300px;
+    height: 150px;
+    border: 1px solid black;
+    margin: 10px;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.705);
+    text-decoration: none;
+    color: #141414;
+    font-size: 1.8em;
+    transition: 0.4s;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.membros-links:hover {
+    color: #fd624c;
+    font-size: 2em;
+}
+
+
+.projetos-links {
+    padding: 20px;
+    display: flex;
+    width: 390px;
+    height: 150px;
+    border: 1px solid black;
+    margin: 10px;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.705);
+    text-decoration: none;
+    color: #141414;
+    font-size: 1.7em;
+    transition: 0.4s;
+    align-items: center;
+    justify-content: center;
+}
+
+.projetos-links:hover {
+    color: #fd624c;
+    font-size: 1.9em;
+}
+
+
 /* PARTE DO FOOTER */
 footer {
     width: 100%;
@@ -250,6 +306,56 @@ footer article {
     min-width: 30px;
     margin-bottom: 20px;
 
+}
+
+/* HEADER MEMBROS E PROJETOS */ 
+
+#header {
+    height: 100px;
+    background-color: rgb(46, 72, 87);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+
+#header img {
+    width: 50px;
+    height: 50px;
+}
+
+#link-home {
+    align-items: center;
+    display: flex;
+    margin: 5%;
+}
+
+#link-home a {
+    margin-left: 15px;
+    font-size: 2.5em;
+    text-decoration: none;
+    color: #e4e4e4;
+}
+
+#header nav {
+    margin-right: 10%;
+}
+
+.link-header {
+    width: 200px;
+    height: 50px;
+    text-decoration: none;
+    color: #e4e4e4;
+    transition: 0.4s;
+    font-size: 2.3em;
+    margin: 20px;
+    padding: 5px 10px;
+    font-weight: 500;
+}
+
+.link-header:hover {
+    color: #fd624c;
+    transition: 0.4s;
 }
 
 /* parte de membros.md */
