@@ -4,6 +4,7 @@ section: content
 
 status: ativo
 name: "Rafael Alexandre"
+img: https://avatars.githubusercontent.com/u/77407339?v=4
 ---
 
 # Rafael Alexandre

@@ -4,6 +4,7 @@ section: content
 
 status: ativo
 name: "App do Consultório na Rua"
+img: ./assets/images/cons_na_rua.jpg
 ---
 # App do Consultório na Rua
 

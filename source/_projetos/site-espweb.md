@@ -6,6 +6,7 @@ status: ativo
 name: "Site Especialização em Desenvolvimento Web"
 dataInicio: 2019-10-14
 link: http://ic.itp.ifsp.edu.br/espweb/
+img: ./assets/images/fs_cinza.png
 
 ---
 
