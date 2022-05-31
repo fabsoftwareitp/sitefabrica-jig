@@ -5,6 +5,7 @@ section: content
 status: ativo
 name: "SGE - Sistema de Gerenciamento de Eventos"
 link: https://ic.itp.ifsp.edu.br/sgeIFSP/
+img: ./assets/images/logo_sge_dark.png
 ---
 # SGE - Sistema de Gerenciamento de Eventos
 

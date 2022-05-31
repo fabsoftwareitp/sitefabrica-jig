@@ -4,7 +4,7 @@ section: content
 
 status: ativo
 name: "João Corrêa"
-team: dev22
+img: https://avatars.githubusercontent.com/u/75680576?v=4
 ---
 
 # João Corrêa

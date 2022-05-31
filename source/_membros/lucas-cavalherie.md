@@ -4,7 +4,7 @@ section: content
 
 status: desativado
 name: "Lucas Cavalherie"
-team: dev21
+img: https://avatars.githubusercontent.com/u/41579591?v=4
 ---
 
 # Lucas Cavalherie

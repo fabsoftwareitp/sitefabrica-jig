@@ -216,47 +216,58 @@ button {
 
 
 .membros-links {
-    padding: 20px;
-    display: flex;
-    width: 300px;
-    height: 150px;
-    border: 1px solid black;
-    margin: 10px;
-    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.705);
+    margin-top: 15px;
     text-decoration: none;
     color: #141414;
-    font-size: 1.8em;
+    font-size: 2.2em;
     transition: 0.4s;
-    align-items: center;
-    justify-content: center;
 }
 
+.membro-home {
+    width: 270px;
+    height: 200px;
+    display: flex;
+    margin: 10px;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.projeto-home {
+    width: 450px;
+    height: 250px;
+    display: flex;
+    margin: 25px;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.projeto-home img {
+    height: 200px;
+}
+
+.membro-home img {
+    width: 150px;
+    border-radius: 50%;
+}
 
 .membros-links:hover {
     color: #fd624c;
-    font-size: 2em;
 }
 
 
 .projetos-links {
-    padding: 20px;
-    display: flex;
-    width: 390px;
-    height: 150px;
-    border: 1px solid black;
-    margin: 10px;
-    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.705);
     text-decoration: none;
     color: #141414;
-    font-size: 1.7em;
+    font-size: 2.2em;
     transition: 0.4s;
-    align-items: center;
-    justify-content: center;
+    margin: 20px 0px;
 }
 
 .projetos-links:hover {
     color: #fd624c;
-    font-size: 1.9em;
+
 }
 
 
@@ -316,7 +327,6 @@ footer article {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    margin-bottom: 20px;
 }
 
 #header img {

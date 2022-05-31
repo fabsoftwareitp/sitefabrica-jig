@@ -4,7 +4,7 @@ section: content
 
 status: ativo
 name: "Gabriel Machado"
-team: dev22
+img: https://avatars.githubusercontent.com/u/103156444?v=4
 ---
 
 # Gabriel Machado

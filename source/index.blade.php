@@ -99,9 +99,14 @@
 
 <div class="links-home">
     @foreach ($membros as $membro)
-        @if ($membro->status == "ativo")
-            <a class="membros-links" href="{{ $membro->getURl() }}"><div id="link-membro">{{ $membro->name }}</div></a>
-        @endif
+       
+            @if ($membro->status == "ativo")
+            <div class="membro-home">
+                <img id="imagem-membro" src="{{ $membro->img }}" alt="Imagem {{ $membro->name }}">
+                <a class="membros-links" href="{{ $membro->getURl() }}"><div id="link-membro">{{ $membro->name }}</div></a>
+            </div>
+            @endif
+        
     @endforeach
 </div>
 
@@ -111,7 +116,11 @@
 
 <div class="links-home">
     @foreach ($projetos as $projeto)
+        <div class="projeto-home">
+            <img id="imagem-projeto" src="{{ $projeto->img }}" alt="Imagem {{ $projeto->name }}">
             <a class="projetos-links" href="{{ $projeto->getURl() }}"><div id="link-membro">{{ $projeto->name }}</div></a>
+        </div>
+            
     @endforeach
 </div>
     

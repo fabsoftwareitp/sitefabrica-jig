@@ -4,7 +4,7 @@ section: content
 
 status: ativo
 name: "André Augusto"
-team: dev21
+img: https://avatars.githubusercontent.com/u/77406727?v=4
 ---
 
 # André Augusto

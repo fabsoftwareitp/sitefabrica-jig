@@ -5,6 +5,7 @@ section: content
 status: ativo
 name: "Show de Física"
 link: "https://showdefisica.itp.ifsp.edu.br/"
+img: ./assets/images/show_fisica.jpg
 ---
 # Show de Física
 
