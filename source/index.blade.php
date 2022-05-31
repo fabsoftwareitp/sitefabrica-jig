@@ -6,7 +6,7 @@
         
         <div class="bloco bg">
             <aside>
-                <article>Fábrica de Software</article> <a>IFSP Itapetininga</a>
+                <article class="animate__animated animate__bounce">Fábrica de Software</article> <a>IFSP Itapetininga</a>
             </aside>
 
             <img id="logo-bloco" src="assets/images/logo-oficial.png">
@@ -124,5 +124,6 @@
     @endforeach
 </div>
     
+
 
 @endsection
