@@ -8,13 +8,24 @@ name: "Reuniões"
 
 ## Abril
 
-### Semana 23
+### Semana 23 (07/04)
+
+Pontos
+- Elaborar a página sobre
+- Criação de artigos (mensal?)
 
 ## Maio
 
 ### Semana 22 (31/05)
-- Elaborar a página sobre
-- Criação de artigos (mensal?)
+
+- Ideias IF Casa aberta
+
+Apresentação do André sobre o Figma. Ele apresentou a ferramenta fazendo uma introdução e depois demonstrou a criação de protótipos direto da ferramenta refazendo uma tela do app consultório na rua. 
+
+Professor Danilo mostrou a organização das ideias do IF Casa Aberta e pediu para que os demais membros votem nas três primeiras colocadas. A ideia é na próxima semana distribuir as ideias para começar os estudos em paralelo.
+
+Por fim, a reunião de planning foi realizada e as tarefas distrubuídas para cada um dos membros da equipe ([Sprint 7](https://github.com/orgs/fabsoftwareitp/projects/2/views/16?filterQuery=sprint%3A%22Sprint+7%22)).
+
 
 ### Semana 21 (23/05)
 
@@ -22,7 +33,7 @@ Ausências: Vitor
 
 Apresentação do Gabriel sobre o Laravel. Ele apresentou uma introdução ao framework mostrando sua história, a estrutura de arquivos, algumas empresas que utilizam entre outros pontos. 
 
-Foi discutida algumas ideias para o IF Casa Aberta, as ideias foram documentadas na própria [issue](https://github.com/fabsoftwareitp/sitefabrica-jig/issues/38). Para **próxima semana** deverá ser discutido novamente as ideias e separado o que é necessário em cada e dividir para que os tópicos sejam estudados.
+Foram discutidas algumas ideias para o IF Casa Aberta. As ideias foram documentadas na própria [issue](https://github.com/fabsoftwareitp/sitefabrica-jig/issues/38). Para **próxima semana** deverá ser discutido novamente as ideias e separado o que é necessário em cada e dividir para que os tópicos sejam estudados.
 
 Por fim, foi feita a reunião de planning para a semana e foram divididos as tarefas para cada um dos membros da equipe que pode ser acompanhado [aqui](https://github.com/orgs/fabsoftwareitp/projects/2/views/16?filterQuery=sprint%3A%22Sprint+6%22).
 
