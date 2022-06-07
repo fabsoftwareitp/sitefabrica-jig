@@ -16,7 +16,7 @@ name: "Calendário"
 - 14 - Apresentação: Gabriel (Laravel estrutura Rotas, Controladores, Visoes - MVC)
 - 21 - Avaliação Trimestral
 - 24 - Festinha do mês
-- 28 - Apresentação: a definir!
+- 28 - Apresentação: João (Nuxt.js)
 
 ## Julho
 
