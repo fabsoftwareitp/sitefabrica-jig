@@ -6,13 +6,22 @@ name: "Reuniões"
 ---
 # Reuniões 📓
 
-## Abril
+## Junho
 
-### Semana 23 (07/04)
+### Semana 24 (14/06)
 
 Pontos
 - Elaborar a página sobre
 - Criação de artigos (mensal?)
+
+### Semana 23 (07/06)
+
+Ausências: Vitor e Vininicus;
+
+Apresentação da Ana sobre o frameworks CSS Bootstrap e depois fizemos alguns testes com a ferramenta na própria fábrica. Professor Danilo pediu para todos votarem nas ideias do IF Casa Aberta. 
+
+Por fim, a reunião de planning foi realizada e as tarefas distrubuídas para cada um dos membros da equipe ([Sprint 8](https://github.com/orgs/fabsoftwareitp/projects/2/views/16?filterQuery=sprint%3A%22Sprint+8%22)).
+
 
 ## Maio
 
