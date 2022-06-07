@@ -6,7 +6,7 @@ name: "Reuniões"
 ---
 # Reuniões 📓
 
-## Abril
+## Junho
 
 ### Semana 24 (14/06)
 
