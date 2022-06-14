@@ -8,12 +8,14 @@ name: "Calendário"
 
 ## Julho
 
+- 05 - Apresentação: João (Nuxt.js)
+- 01 - Festinha do mês
+
 ## Junho
-- 28 - Apresentação: João (Nuxt.js)
-- 24 - Festinha do mês
-- 21 - Avaliação Trimestral
-- 14 - Apresentação: Gabriel (Laravel estrutura Rotas, Controladores, Visoes - MVC)
-- 7 - Apresentação: Ana Julia (Introdução ao Bootstrap) 
+- 28 - Avaliação Trimestral 
+- 21 - Apresentação: Gabriel (Laravel estrutura Rotas, Controladores, Visoes - MVC)
+- 14 - Reunião foi simplificada (Gabriel não conseguiu apresentar, está doente)
+- 07 - Apresentação: Ana Julia (Introdução ao Bootstrap) 
 
 ## Maio
 - 31 - Apresentação: Andre (Introdução ao Figma)

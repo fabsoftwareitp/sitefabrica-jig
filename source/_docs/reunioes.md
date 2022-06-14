@@ -8,11 +8,18 @@ name: "Reuniões"
 
 ## Junho
 
-### Semana 24 (14/06)
+### Semana 25 (21/06)
 
 Pontos
 - Elaborar a página sobre
 - Criação de artigos (mensal?)
+
+### Semana 24 (14/06)
+
+Ausências: Vininicus, João e Gabriel;
+- Gabriel está com covid;
+
+Não ocorreu a apresentação conforme combinado visto que o colaborador Gabriel está doente. Nesse sentido apenas o acompanhamento geral foi realizado. Professor Danilo pediu novamente para todos votarem nas ideias e as tarefas distrubuídas para cada um dos membros da equipe ([Sprint 9](https://github.com/orgs/fabsoftwareitp/projects/2/views/16?filterQuery=sprint%3A%22Sprint+9%22)).
 
 ### Semana 23 (07/06)
 
