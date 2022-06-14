@@ -102,7 +102,7 @@
        
             @if ($membro->status == "ativo")
             <div class="membro-home">
-                <img id="imagem-membro" src="{{ $membro->img }}" alt="Imagem {{ $membro->name }}">
+            <a class="membros-links" href="{{ $membro->getURl() }}"><img id="imagem-membro" src="{{ $membro->img }}" alt="Imagem {{ $membro->name }}"></a>
                 <a class="membros-links" href="{{ $membro->getURl() }}"><div id="link-membro">{{ $membro->name }}</div></a>
             </div>
             @endif
