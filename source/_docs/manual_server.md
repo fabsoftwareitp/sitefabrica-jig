@@ -1,8 +1,9 @@
 ---
 extends: _layouts.blog
-section: body
+section: content
 title: "Manual de acesso ao WebServer"
 author: "Vitor Gabriel de Aquino"
+name: "Manual do WebServer"
 ---
 # Como acessar o servidor da Fábrica de Software
 Primeiramente, é necessário que se tenha instalado o SSH em sua máquina, que ele servirá de ponte entre seu computador e o servidor, após isso, o processo de conexão é bem simples, começe pelo seguinte comando no seu terminal:
