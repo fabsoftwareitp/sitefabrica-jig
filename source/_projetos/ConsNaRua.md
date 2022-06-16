@@ -42,10 +42,10 @@ Modelagem, prototipação, teste de protótipos, implementação e testes de ver
 
 Documentação do aplicativo e publicações
 
-**Meta 8 - 08/08/22 até 25/11/22**
+**Meta 8 - 08/08/2022 até 25/11/2022**
 
 Planejamento do evento de divulgação do APP para Prefeituras, Estado, ONGs e imprensa.
 
-**Meta 9 - 02/05/22 até 16/12/22**
+**Meta 9 - 02/05/2022 até 16/12/2022**
 
 Avaliação e finalização do projeto
