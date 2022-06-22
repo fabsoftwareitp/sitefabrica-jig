@@ -1,0 +1,56 @@
+
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@200;300;400;500;600;700;800&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.rainbow-text {
+	@apply text-transparent bg-clip-text bg-gradient-to-r from-primary to-pink-600;
+}
+.rainbow-bg {
+	@apply bg-gradient-to-r from-primary to-pink-600;
+}
+
+.page-enter-active,
+.page-leave-active {
+	transition: all 0.3s ease-in-out;
+}
+
+.page-enter-from,
+.page-leave-to {
+	opacity: 0;
+	transform: scale(0.99);
+}
+
+.titulo {
+	font-family: 'Open Sans', sans-serif;
+	color: #fff;
+    letter-spacing: 0.2rem;
+    font-weight: bolder;
+    font-size: 4.75rem;
+    text-shadow: 2px 2px 4px #232323;
+}
+
+.sub-titulo {
+	font-size: 3rem;
+    color: #fd624c;
+    font-family: 'Arial', serif;
+}
+
+#logo-bloco {
+	width: 10%;
+    min-width: 250px;
+}
+
+#caracteristicas {
+	display: flex;
+	justify-content: space-around;
+}
+
+.laranja-redonda {
+	background-color: #fd624c;
+	width: 75px;
+	height: 75px;
+	border-radius: 50%;
+}

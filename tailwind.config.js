@@ -1,14 +1,17 @@
+const colors = require('tailwindcss/colors')
+
 module.exports = {
-  purge: [
-    'source/**/*.blade.php',
-    'source/**/*.md',
-    'source/**/*.html',
+  darkMode: 'class',
+  plugins: [
+    require('@tailwindcss/typography')
   ],
+  content: ['content/**/*.{md,yml,json,json5,csv}'],
   theme: {
-    extend: {},
-  },
-  variants: {
-    extend: {},
-  },
-  plugins: [],
-};
+    extend: {
+      colors: {
+        // Customize the feeling of your site
+        gray: colors.stone
+      }
+    }
+  }
+}

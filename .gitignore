@@ -1,17 +1,8 @@
-/build_local/
-/cache/
-/node_modules/
-/vendor/
-/.idea/
-/.vscode/
-npm-debug.log
-/build_*/
-/cache/
-/node_modules/
-/source/assets/build/
+node_modules
+*.log*
+.nuxt
+.nitro
+.cache
+.output
 .env
-
-# Optional ignores
-# /build_staging/
-# /build_production/
-# /source/assets/build/
+dist
