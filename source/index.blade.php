@@ -6,7 +6,7 @@
         
         <div class="bloco bg">
             <aside>
-                <article>Fábrica de Software</article> <a>IFSP Itapetininga</a>
+                <article class="animate__animated animate__bounce">Fábrica de Software</article> <a>IFSP Itapetininga</a>
             </aside>
 
             <img id="logo-bloco" src="assets/images/logo-oficial.png">
@@ -95,15 +95,35 @@
 @endforeach
 </ul>
 
-@include('_partials.membros')
+<h1>Membros</h1>
+
+<div class="links-home">
+    @foreach ($membros as $membro)
+       
+            @if ($membro->status == "ativo")
+            <div class="membro-home">
+            <a class="membros-links" href="{{ $membro->getURl() }}"><img id="imagem-membro" src="{{ $membro->img }}" alt="Imagem {{ $membro->name }}"></a>
+                <a class="membros-links" href="{{ $membro->getURl() }}"><div id="link-membro">{{ $membro->name }}</div></a>
+            </div>
+            @endif
+        
+    @endforeach
+</div>
+
+
 
 <h1>Projetos</h1>
-<ul>
+
+<div class="links-home">
     @foreach ($projetos as $projeto)
-        <li>
-            <a href="{{ $projeto->getURl() }}">{{ $projeto->name }}</a>
-        </li>
+        <div class="projeto-home">
+            <img id="imagem-projeto" src="{{ $projeto->img }}" alt="Imagem {{ $projeto->name }}">
+            <a class="projetos-links" href="{{ $projeto->getURl() }}"><div id="link-membro">{{ $projeto->name }}</div></a>
+        </div>
+            
     @endforeach
-</ul>
+</div>
+    
+
 
 @endsection

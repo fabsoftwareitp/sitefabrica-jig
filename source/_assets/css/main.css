@@ -12,7 +12,8 @@ body, html {
   
 .bg {
 /* The image used */
-background-image: url("/assets/images/bg.jpg");
+/* TODO: verificar como trabalhar com URL relativa aqui */
+background-image: url("https://ic.itp.ifsp.edu.br/fabsoftware/assets/images/bg.jpg"); 
 
 /* Full height */
 height: 100%;
@@ -49,14 +50,14 @@ body {
 
 /* PARTE INICIAL: HEADER, TEXTO INICIAL */
 
- ul {
+nav ul {
     margin: auto;
     padding: 0;
     display: flex;
     list-style: none;
 }
 
-ul li {
+nav ul li {
     margin: 0.5rem;
     font-weight: 300;
     font-size: 1rem;
@@ -203,6 +204,73 @@ button {
 
 }
 
+/* PARTE DO MEMBROS E PROJETOS */
+
+.links-home {
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 1150px;
+    margin: auto;
+    justify-content: center;
+}
+
+
+.membros-links {
+    margin-top: 15px;
+    text-decoration: none;
+    color: #141414;
+    font-size: 2.2em;
+    transition: 0.4s;
+}
+
+.membro-home {
+    width: 270px;
+    height: 200px;
+    display: flex;
+    margin: 10px;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.projeto-home {
+    width: 450px;
+    height: 250px;
+    display: flex;
+    margin: 25px;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.projeto-home img {
+    height: 200px;
+}
+
+.membro-home img {
+    width: 150px;
+    border-radius: 50%;
+}
+
+.membros-links:hover {
+    color: #fd624c;
+}
+
+
+.projetos-links {
+    text-decoration: none;
+    color: #141414;
+    font-size: 2.2em;
+    transition: 0.4s;
+    margin: 20px 0px;
+}
+
+.projetos-links:hover {
+    color: #fd624c;
+
+}
+
+
 /* PARTE DO FOOTER */
 footer {
     width: 100%;
@@ -251,6 +319,55 @@ footer article {
 
 }
 
+/* HEADER MEMBROS E PROJETOS */ 
+
+#header {
+    height: 100px;
+    background-color: rgb(46, 72, 87);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+#header img {
+    width: 50px;
+    height: 50px;
+}
+
+#link-home {
+    align-items: center;
+    display: flex;
+    margin: 5%;
+}
+
+#link-home a {
+    margin-left: 15px;
+    font-size: 2.5em;
+    text-decoration: none;
+    color: #e4e4e4;
+}
+
+#header nav {
+    margin-right: 10%;
+}
+
+.link-header {
+    width: 200px;
+    height: 50px;
+    text-decoration: none;
+    color: #e4e4e4;
+    transition: 0.4s;
+    font-size: 2.3em;
+    margin: 20px;
+    padding: 5px 10px;
+    font-weight: 500;
+}
+
+.link-header:hover {
+    color: #fd624c;
+    transition: 0.4s;
+}
+
 /* parte de membros.md */
 #members{
     width: 60%;
@@ -274,8 +391,6 @@ footer article {
 
 /* Parte dos projetos.md */
 #projetos{
-    display: flex;
-    flex-direction: column;
     width: 60%;
     margin: auto;
     align-items: center;

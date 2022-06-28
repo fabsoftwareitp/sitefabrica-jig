@@ -6,6 +6,7 @@ status: ativo
 name: "Site Especialização em Desenvolvimento Web"
 dataInicio: 2019-10-14
 link: http://ic.itp.ifsp.edu.br/espweb/
+img: ./assets/images/fs_cinza.png
 
 ---
 
@@ -51,49 +52,5 @@ DevOps
 Product Ownner: Prof. Rafael
 Scrum master: Prof. Rafael
 Team: Vitor
-
-Danilo Camargo Bueno
-Docente
-4h/sem
-
-Coordenador, Gestor, Supervisor
-Rafael de Almeida Brochado
-Docente
-2h/sem
-
-Gestor
-Rafael Alexandre
-Discente
-8h/sem
-
-Colaborador
-André Augusto Rodrigues Martins
-Discente
-8h/sem
-
-Colaborador
-Gabriel Machado de Almeida
-Discente
-20h/sem
-
-Colaborador/Bolsista
-João Victor Corrêa Augusto
-Discente
-8h/sem
-
-Colaborador
-Vitor Gabriel de Aquino
-Discente
-8h/sem
-
-Colaborador
-Ana Julia Trindade de Almeida
-Discente
-8h/sem
-
-Colaborador
-Vinícius Manoel Rochel Vieira
-Discente
-8h/sem
 
 
