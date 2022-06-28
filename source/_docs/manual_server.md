@@ -1,5 +1,5 @@
 ---
-extends: _layouts.blog
+extends: _layouts.projetos
 section: content
 title: "Manual de acesso ao WebServer"
 author: "Vitor Gabriel de Aquino"
