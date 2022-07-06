@@ -29,3 +29,10 @@ Atuando como FullStack no projeto DevOps, tendo como função principal providen
 - 31/05 - 0,5 Horas - Mudança do local do manual para a pasta "_docs"
 
 total: **13,5 horas**
+
+#### Junho 
+
+- 08/06 - 3 Horas - Produção do Relatório do Mês de Maio (:P)
+- 28/06 - 1 Hora - Ajustes finais ao manual do WebServer
+
+total: **4 horas**
