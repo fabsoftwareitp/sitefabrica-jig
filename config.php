@@ -9,6 +9,7 @@ return [
         'posts',
         'membros',
         'projetos',
-        'docs'
+        'docs',
+        'treinamento'
     ],
 ];
