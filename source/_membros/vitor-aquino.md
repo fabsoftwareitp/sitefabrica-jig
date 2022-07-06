@@ -33,6 +33,6 @@ total: **13,5 horas**
 #### Junho 
 
 - 08/06 - 3 Horas - Produção do Relatório do Mês de Maio (:P)
-- 28/06 - 1 Hora - Ajustes finais ao manual do WebServer
+- 28/06 - 1 Hora - Ajustes finais no manual do WebServer
 
 total: **4 horas**
