@@ -6,13 +6,24 @@ name: "Reuniões"
 ---
 # Reuniões 📓
 
+## Julho
+
+### Semana 27
+Ausências: Vitor, Ana (chegou atrasada) e Rafael.
+
+- Apresentação do João sobre Nuxt.js e a nova estrutura do site da fábrica; O Gabriel também mostrou a parte que não conseguiu em sua última apresentação. Logo em seguida foi realizado o acompanhamento e distribuição das tarefas.
+
 ## Junho
+
+### Semana 26 (28/06)
+
+- Avaliações dos integrantes e festinha do mês;
 
 ### Semana 25 (21/06)
 
 Pontos
-- Elaborar a página sobre
-- Criação de artigos (mensal?)
+
+- Apresentação do Gabriel sobre Laravel;
 
 ### Semana 24 (14/06)
 

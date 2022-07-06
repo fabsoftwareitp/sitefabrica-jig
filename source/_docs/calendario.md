@@ -6,8 +6,14 @@ name: "Calendário"
 ---
 # Calendário 📅
 
-## Julho
+## Agosto
+- 09 - 
+- 02 - Retomada presencial
 
+## Julho
+- 26 - Assíncrona
+- 19 - Assíncrona
+- 12 - Finalização do período de experiência;
 - 05 - Apresentação: João (Nuxt.js)
 - 01 - Festinha do mês
 
