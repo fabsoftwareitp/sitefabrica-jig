@@ -38,23 +38,37 @@ Técnico em Informática [em formação] pelo IFSP, membro da Fábrica de Softwa
 - 20/05 - 4 Horas - Ajustes como troca de cores e inserção da logo do Consultório na Rua no Protótipo
 - 23/05 - 4 Horas - Correção de grupos e conexão de componentes do protótipo
 - 24/05 - 4 Horas - Recebimento do feedback do Scrum Master e início do diagrama do banco de dados
-- 25/05 - 4 Horas - Desenvolvimento do diagrama/modelagem do banco de dados do   consultório na rua
+- 25/05 - 4 Horas - Desenvolvimento do diagrama/modelagem do banco de dados do   consultório na rua   
 - 26/05 - 4 Horas - Desenvolvimento do diagrama/modelagem do banco de dados do   consultório na rua
 - 27/05 - 4 Horas - Finalização da modelagem
 - 30/05 - 4 Horas - Apresentação do protótipo ao cliente e recebimento do feedback do que foi feito
 - 31/05 - 4 Horas - Discussão com scrum master e reformulação da modelagem do banco de dados
 
 
-
-
-
-
-
-
-
-
-
-
-
-
 total: **88 horas**
+
+#### Junho
+- 01/06 - 4 horas - Discussão sobre a modelagem do banco de dados
+- 02/06 - 4 horas - Planejamento do desenvolvimento inicial da aplicação
+- 03/06 - 4 horas - Ajustes no protótipo para início da aplicação
+- 06/06 - 4 horas - Início do desenvolvimento do formulário em aplicação, etapas 1 e 2
+- 07/06 - 4 horas - Desenvolvimento do formulário em aplicação, etapas 1 e 2
+- 08/06 - 4 horas - Desenvolvimento do formulário em aplicação, etapas 3 e 4
+- 09/06 - 4 horas - Desenvolvimento do formulário em aplicação, etapas 5 e 6
+- 10/06 - 4 horas - Desenvolvimento do formulário em aplicação, etapas 7 e 8
+- 13/06 - 4 horas - Criação das rotas e controller do formulário em aplicação
+- 14/06 - 4 horas - Criação das rotas e controller do formulário em aplicação
+- 15/06 - 4 horas - Continuação do desenvolvimento do formulário, etapas técnicas, 9 e 10
+- 17/06 - 4 horas - Continuação do desenvolvimento do formulário, etapas técnicas, 9 e 10
+- 20/06 - 4 horas - Correções e ajustes de etapas anteriores, incremento na estilização
+- 21/06 - 4 horas - Desenvolvimento da etapa 11 do formulário em aplicação
+- 22/06 - 4 horas - Desenvolvimento da tela de login e cadastro em aplicação
+- 23/06 - 4 horas - Desenvolvimento da tela de login e cadastro em aplicação
+- 24/06 - 4 horas - Reestruturação das rotas do formulário no controller
+- 27/06 - 4 horas - Reestruturação das rotas do formulário no controller
+- 28/06 - 4 horas - Ajustes na modelagem do banco de dados
+- 29/06 - 4 horas - Ajustes na modelagem do banco de dados
+- 30/06 - 4 horas - Criação dos templates do site como rodapé e cabeçalho
+
+
+total: **84 horas**
