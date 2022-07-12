@@ -10,8 +10,8 @@ Esta página contém materiais de apoio para o aprendizado da ferramenta de desi
 
 ## Cursos e vídeos
 
-- ([Tutorial Completo de FIGMA - Ferramenta GRÁTIS para Design de Interfaces: Gabriel Silvestri](https://www.youtube.com/watch?v=vg-INqhKD5c))
+- [Tutorial Completo de FIGMA - Ferramenta GRÁTIS para Design de Interfaces: Gabriel Silvestri](https://www.youtube.com/watch?v=vg-INqhKD5c)
 
 ## Material escrito e documentação
 
-- ([Figma UX Documentation](https://www.figma.com/community/file/944644388375583520))
+- [Figma UX Documentation](https://www.figma.com/community/file/944644388375583520)
