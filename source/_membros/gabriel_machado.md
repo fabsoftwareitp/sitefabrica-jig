@@ -28,3 +28,13 @@ Técnico em Informática [em formação] pelo IFSP, membro da Fábrica de Softwa
 - 31/05 - 6 Horas - Conserto do caminho do local de arquivo dos templates (SGE)
 
 Total: **18 Horas**
+
+### Junho
+
+- 07/06 - 6 horas - Conserto do caminho do local de arquivo dos templates (SGE)
+- 21/06 - 9 horas - Criação de seed para geração de registro de template (SGE)
+- 22/06 - 4 horas - Adição de CSS na página "Submeter Trabalhos" e melhoras no CSS geral (SGE)
+- 28/06 - 3 horas - Resolução do problema encontrado com a seed (SGE)
+- 28/06 - 3 horas - Documentação das atividades do mês de maio
+
+Total: **25 horas**
