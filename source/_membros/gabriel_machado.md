@@ -24,10 +24,10 @@ Técnico em Informática [em formação] pelo IFSP, membro da Fábrica de Softwa
 - 03/05 - 3 Horas - Adição das páginas dos membros
 - 10/05 - 3 Horas - Adição das páginas dos projetos
 - 17/05 - 3 Horas - Criação de tutorial do Artisan (Laravel)
-- 24/05 - 3 Horas - Conserto do caminho da imagem dos templates de eventos (SGE)
-- 31/05 - 6 Horas - Conserto do caminho do local de arquivo dos templates (SGE)
+- 24/05 - 4 Horas - Conserto do caminho da imagem dos templates de eventos (SGE)
+- 31/05 - 7 Horas - Conserto do caminho do local de arquivo dos templates (SGE)
 
-Total: **18 Horas**
+Total: **20 Horas**
 
 ### Junho
 
