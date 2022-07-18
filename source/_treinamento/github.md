@@ -32,8 +32,8 @@ Esta página contém materiais de apoio para o aprendizado da tecnologia Git e d
 
 ## Cursos e vídeos
 
-- [Curso de Bootstrap: Matheus Battisti - Hora de Codar](https://www.youtube.com/watch?v=SmQMZ36hJJY&list=PLnDvRpP8Bnexu5wvxogy6N49_S5Xk8Cze)
+- [Curso de Git e Github - Curso em Vídeo](https://www.youtube.com/playlist?list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA)
 
 ## Material escrito e documentação
 
-- [Documentação oficial do Bootstrap](https://getbootstrap.com.br/docs/4.1/getting-started/introduction/)
+- [Documentação oficial do Git](https://git-scm.com/docs)
