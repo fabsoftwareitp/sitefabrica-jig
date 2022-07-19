@@ -10,9 +10,9 @@ Esta página contém materiais de apoio para o aprendizado do framework Vue.js, 
 
 ## Cursos e vídeos
 
-- ([Curso de Vue.js: Matheus Battisti - Hora de Codar](https://www.youtube.com/watch?v=wsAQQioPIJs&list=PLnDvRpP8BnezDglaAvtWgQXzsOmXUuRHL))
-- ([Vue.js - Curso Completo: ProgrAmada Mente](https://www.youtube.com/watch?v=Rz7D51uU_gY&list=PLWNaqtzH6CWR-dykXeDD5XmMzJur9JBIh&index=1))
+- [Curso de Vue.js: Matheus Battisti - Hora de Codar](https://www.youtube.com/watch?v=wsAQQioPIJs&list=PLnDvRpP8BnezDglaAvtWgQXzsOmXUuRHL)
+- [Vue.js - Curso Completo: ProgrAmada Mente](https://www.youtube.com/watch?v=Rz7D51uU_gY&list=PLWNaqtzH6CWR-dykXeDD5XmMzJur9JBIh&index=1)
 
 ## Material escrito e documentação
 
-- ([Documentação oficial do Vue.js](https://vuejs.org/guide/introduction.html))
+- [Documentação oficial do Vue.js](https://vuejs.org/guide/introduction.html)x
