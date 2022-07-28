@@ -22,10 +22,19 @@ Atuando como fullstack no projeto do Site da Fábrica, trabalhando com mudanças
 
 #### Maio
 
-- 03/05 - 3 Horas - Adição das páginas dos membros
-- 10/05 - 3 Horas - Adição das páginas dos projetos
-- 17/05 - 3 Horas - Correção da home (css) e adição de todos os membros (ativos e inativos)
-- 24/05 - 3 Horas - Correção da home (css) 
-- 31/05 - 6 Horas - Introduzindo as imagens dos membros e adição da página de membros e projetos.
+- 03/05 - 1 Hora - Adição das páginas dos membros
+- 10/05 - 1 Hora - Adição das páginas dos projetos
+- 17/05 - 2 Horas - Correção da home (css) e adição de todos os membros (ativos e inativos)
+- 24/05 - 2 Horas - Correção da home (css) 
+- 31/05 - 3 Horas - Introduzindo as imagens dos membros e adição da página de membros e projetos.
 
-total: **18 horas**
+Total: **9 horas**
+
+### Junho 
+
+- 07/06 - 2 Horas - Começo da mudança de tecnologia do site (Nuxt e vue.js)
+- 14/06 - 1 Hora - Relatório do mês de Maio
+- 21/06 - 3 Horas - Criando um layout para a página principal e inserindo no site
+- 28/06 - 2 Horas - Mudanças na página inicial e estudando como funciona algumas funcionalidades do Nuxt
+
+Total: **8 Horas**
