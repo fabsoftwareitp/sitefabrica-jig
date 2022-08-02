@@ -38,3 +38,21 @@ Técnico em Informática [em formação] pelo IFSP, membro da Fábrica de Softwa
  - 27/05 - 4 Horas - Finalização da modelagem
  - 30/05 - 4 Horas - Apresentação do protótipo ao cliente e recebimento do feedback do que foi feito
  - 31/05 - 4 Horas - Discussão com scrum master e reformulação da modelagem do banco de dados
+
+
+ ### Junho
+ - 01/06 - 4 horas - Discussão sobre a modelagem do banco de dados
+ - 07/06 - 4 horas - Início da parte do protótipo de consulta
+ - 08/06 - 4 horas - separação das categorias do formulário
+ - 06/06 - 4 horas - inserir uma caixa de pesquisa na primeira parte
+ - 07/06 - 4 horas - deixar um aviso em baixo da caixa de pesquisa
+ - 08/06 - 4 horas - colocar todas as informações do formulário
+ - 09/06 - 4 horas - deixar estilizado todos os subtítulos
+ - 10/06 - 4 horas - responder todas as perguntas do formulário
+ - 14/06 - 4 horas - adicionar as informações que o cliente pediu
+ - 15/06 - 4 horas - mudar todas as categorias
+ - 17/06 - 4 horas - separar as informações de cada categoria
+ - 21/06 - 4 horas - estilizar o espaçamento de cada pergunta
+ - 22/06 - 4 horas - diminuir o tamanho da resposta 
+ - 28/06 - 4 horas - Ajustes na modelagem do banco de dados
+ - 29/06 - 4 horas - Ajustes na modelagem do banco de dados
