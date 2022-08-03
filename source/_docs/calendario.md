@@ -7,8 +7,11 @@ name: "Calendário"
 # Calendário 📅
 
 ## Agosto
-- 09 - 
-- 02 - Retomada presencial
+
+- 24 - 
+- 17 - Apresentação Vitor
+- 10 - Apresentação Vininicus
+- 03 - Retomada presencial
 
 ## Julho
 - 26 - Assíncrona
