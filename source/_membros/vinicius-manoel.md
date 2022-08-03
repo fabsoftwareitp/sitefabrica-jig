@@ -34,3 +34,20 @@ Técnico em Informática [em formação] pelo IFSP, membro da Fábrica de Softwa
 
 
 total **17 horas**
+
+
+### Junho
+
+ - 07/06 - 2 horas - Apresentação sobre o Bootstrap: Ana
+ - 14/06 - Falta devido a Complicações de Saúde
+ - 15/06 - 2 horas - Continuação Estudos sobre Resonsividade
+ - 21/06 - 2 horas - Apresentação sobre o Laravel: Gabriel
+ - 22/06 - 3 horas - Resolvendo problemas referentes a trabalhar na Fábrica remotamente
+ - 28/06 - 2 horas - Apresentação sobre o Nuxt: João
+ - 29/06 - Festinha da Fábrica
+
+
+
+
+
+ total **11 horas**
