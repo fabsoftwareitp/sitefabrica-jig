@@ -10,8 +10,8 @@ Esta página contém materiais de apoio para o aprendizado do framework Laravel,
 
 ## Cursos e vídeos
 
-- ([Curso de Laravel: Matheus Battisti - Hora de Codar](https://www.youtube.com/watch?v=qH7rsZBENJo&list=PLnDvRpP8BnewYKI1n2chQrrR4EYiJKbUG&index=1))
+- [Curso de Laravel: Matheus Battisti - Hora de Codar](https://www.youtube.com/watch?v=qH7rsZBENJo&list=PLnDvRpP8BnewYKI1n2chQrrR4EYiJKbUG&index=1)
 
 ## Material escrito e documentação
 
-- ([Documentação oficial do Laravel](https://laravel.com/))
+- [Documentação oficial do Laravel](https://laravel.com/)
