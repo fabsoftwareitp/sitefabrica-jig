@@ -38,3 +38,33 @@ Total: **20 Horas**
 - 28/06 - 3 horas - Documentação das atividades do mês de maio
 
 Total: **25 horas**
+
+### Julho 
+
+- 05/07 – Criação de páginas de treinamento para o site da Fábrica de Software – 4 horas
+- 09/07 – Continuação dos estudos da tecnologia Laravel para manutenção do SGE – 4 horas
+- 09/07 – Desenvolvimento prático de projeto usando Laravel como parte dos estudos – 4 horas
+- 12/07 – Criação de página de treinamento especializada em Git/Github para o site da Fábrica de Software – 4 horas
+- 12/07 – Início do desenvolvimento de tutorial de Github para membros da Fábrica de Software – 4 horas
+- 13/07 – Continuação do desenvolvimento do tutorial de Github para membros da Fábrica de Software – 4 horas
+- 13/07 – Continuação dos estudos da tecnologia Laravel para manutenção do SGE – 4 horas
+- 13/07 – Desenvolvimento prático de projeto usando Laravel como parte dos estudos – 4 horas
+- 13/07 – Documentação do relatório do mês de junho – 2 horas
+- 13/07 – Reformulação do relatório do mês de maio – 1 hora
+- 15/07 – Continuação dos estudos da tecnologia Laravel para manutenção do SGE – 2 horas
+- 15/07 – Desenvolvimento prático de projeto usando Laravel como parte dos estudos – 2 horas
+- 18/07 – Finalização do tutorial de Github para membros da Fábrica de Software – 2 horas
+- 18/07 – Últimas mudanças no tutorial de Github para membros da Fábrica de Software – 1 hora
+- 20/07 – Continuação dos estudos da tecnologia Laravel para manutenção do SGE – 4 horas
+- 20/07 – Desenvolvimento prático de projeto usando Laravel como parte dos estudos – 4 horas
+- 21/07 – Continuação dos estudos da tecnologia Laravel para manutenção do SGE – 4 horas
+- 21/07 – Desenvolvimento prático de projeto usando Laravel como parte dos estudos – 4 horas
+- 25/07 – Continuação dos estudos da tecnologia Laravel para manutenção do SGE – 2 horas
+- 25/07 – Desenvolvimento prático de projeto usando Laravel como parte dos estudos – 2 horas
+- 26/07 – Continuação dos estudos da tecnologia Laravel para manutenção do SGE – 4 horas
+- 26/07 – Desenvolvimento prático de projeto usando Laravel como parte dos estudos – 4 horas
+- 27/07 – Continuação dos estudos da tecnologia Laravel para manutenção do SGE – 4 horas
+- 27/07 – Desenvolvimento prático de projeto usando Laravel como parte dos estudos – 4 horas
+- 27/07 – Finalização dos estudos teóricos de Laravel – 2 horas
+
+Total: **80 horas**
