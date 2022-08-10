@@ -8,6 +8,7 @@ name: "Calendário"
 
 ## Agosto
 
+- 31 - Avaliação Bimestral
 - 24 - 
 - 17 - Apresentação Vitor
 - 10 - Apresentação Vininicus
